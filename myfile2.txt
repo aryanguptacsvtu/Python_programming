@@ -1,0 +1,3 @@
+Hello, how are you?
+Today's weather is nice.
+What do you do for living?
